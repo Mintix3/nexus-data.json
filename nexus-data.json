@@ -77,9 +77,9 @@
     {
       "id": "",
       "username": "Tessjsj",
-      "region": "ASIA",
+      "region": "eu",
       "tiers": {
-        "vanilla": "HT5",
+        "vanilla": "HT1",
         "sword": "none",
         "axe": "none",
         "nethpot": "none",
@@ -89,7 +89,6 @@
         "mace": "none"
       },
       "titleOverride": null
-
     }
   ]
 }
