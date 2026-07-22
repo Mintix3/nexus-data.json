@@ -89,22 +89,7 @@
         "mace": "none"
       },
       "titleOverride": null
-    },
-    {
-      "id": "a9a47cc0-d857-417e-99ee-ff3e7b5324ea",
-      "username": "itznotian",
-      "region": "na",
-      "tiers": {
-        "vanilla": "LT3",
-        "sword": "none",
-        "axe": "none",
-        "nethpot": "none",
-        "diamondpot": "none",
-        "smp": "none",
-        "uhc": "none",
-        "mace": "none"
-      },
-      "titleOverride": null
+    
     }
   ]
 }
