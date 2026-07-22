@@ -89,22 +89,7 @@
         "mace": "none"
       },
       "titleOverride": null
-    },
-    {
-      "id": "069a79f4-44e9-4726-a5be-fca90e38aaf5",
-      "username": "notch",
-      "region": "NA",
-      "tiers": {
-        "vanilla": "none",
-        "sword": "none",
-        "axe": "none",
-        "nethpot": "none",
-        "diamondpot": "none",
-        "smp": "none",
-        "uhc": "none",
-        "mace": "HT1"
-      },
-      "titleOverride": null
+    
     }
   ]
 }
