@@ -1,0 +1,95 @@
+{
+  "gamemodes": [
+    {
+      "key": "vanilla",
+      "label": "Vanilla",
+      "texture": "end_crystal"
+    },
+    {
+      "key": "sword",
+      "label": "Sword",
+      "texture": "diamond_sword"
+    },
+    {
+      "key": "axe",
+      "label": "Axe",
+      "texture": "diamond_axe"
+    },
+    {
+      "key": "nethpot",
+      "label": "NethPot",
+      "texture": "splash_potion"
+    },
+    {
+      "key": "diamondpot",
+      "label": "DiamondPot",
+      "texture": "diamond"
+    },
+    {
+      "key": "smp",
+      "label": "SMP",
+      "texture": "totem_of_undying"
+    },
+    {
+      "key": "uhc",
+      "label": "UHC",
+      "texture": "golden_apple"
+    },
+    {
+      "key": "mace",
+      "label": "Mace",
+      "texture": "mace"
+    }
+  ],
+  "players": [
+    {
+      "id": "116d91a9-07f3-448b-8243-08a45dc82968",
+      "username": "EllaIsCozy",
+      "region": "EU",
+      "tiers": {
+        "vanilla": "HT4",
+        "sword": "LT5",
+        "axe": "none",
+        "nethpot": "none",
+        "diamondpot": "none",
+        "smp": "none",
+        "uhc": "HT5",
+        "mace": "none"
+      },
+      "titleOverride": null
+    },
+    {
+      "id": "b4c39b64-33b0-4ae1-8456-dbf0e53e05ac",
+      "username": "Mintixx_",
+      "region": "EU",
+      "tiers": {
+        "vanilla": "LT4",
+        "sword": "none",
+        "axe": "none",
+        "nethpot": "none",
+        "diamondpot": "none",
+        "smp": "HT5",
+        "uhc": "HT5",
+        "mace": "none"
+      },
+      "titleOverride": null
+    },
+    {
+      "id": "",
+      "username": "Tessjsj",
+      "region": "EU",
+      "tiers": {
+        "vanilla": "HT5",
+        "sword": "none",
+        "axe": "none",
+        "nethpot": "none",
+        "diamondpot": "none",
+        "smp": "none",
+        "uhc": "LT5",
+        "mace": "none"
+      },
+      "titleOverride": null
+
+    }
+  ]
+}
