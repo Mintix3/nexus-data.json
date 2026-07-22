@@ -89,22 +89,6 @@
         "mace": "none"
       },
       "titleOverride": null
-    },
-    {
-      "id": "",
-      "username": "MintixYT",
-      "region": "ASIA",
-      "tiers": {
-        "vanilla": "LT3",
-        "sword": "none",
-        "axe": "none",
-        "nethpot": "none",
-        "diamondpot": "none",
-        "smp": "HT5",
-        "uhc": "HT5",
-        "mace": "none"
-      },
-      "titleOverride": null
 
     }
   ]
