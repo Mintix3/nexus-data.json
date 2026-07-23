@@ -89,7 +89,22 @@
         "mace": "none"
       },
       "titleOverride": null
-
+    },
+    {
+      "id": "743569c0-7240-4911-a014-cb9adad02cdd",
+      "username": "soulfiredmc",
+      "region": "NA",
+      "tiers": {
+        "vanilla": "HT4",
+        "sword": "none",
+        "axe": "none",
+        "nethpot": "none",
+        "diamondpot": "none",
+        "smp": "none",
+        "uhc": "none",
+        "mace": "none"
+      },
+      "titleOverride": null
     }
   ]
 }
