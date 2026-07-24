@@ -313,6 +313,22 @@
         "mace": "HT4"
       },
       "titleOverride": null
+    },
+    {
+      "id": "d4be9a37-1208-4207-98d7-6414b838d2b0",
+      "username": "raban",
+      "region": "EU",
+      "tiers": {
+        "vanilla": "HT2",
+        "sword": "none",
+        "axe": "none",
+        "nethpot": "none",
+        "diamondpot": "none",
+        "smp": "none",
+        "uhc": "none",
+        "mace": "none"
+      },
+      "titleOverride": null
     }
   ]
 }
